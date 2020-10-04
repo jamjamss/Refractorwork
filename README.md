@@ -11,9 +11,9 @@ Implemented an accessible user friendly website for a marketing agency called Ho
 
 ### Visuals & Links
 
-[Screenshot](./Assets/Screenshot.png)
+![Screenshot](./Assets/Screenshot.png)
 
-[URL Link] (https://jamjamss.github.io/Refractorwork/)
+(https://jamjamss.github.io/Refractorwork/)
 
 ### Contributions: 
 
